@@ -1,0 +1,7 @@
+{
+    "configuration": "flash=2097152_524288,freq=240,opt=Optimize3,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,ipbtstack=ipv4only,uploadmethod=default",
+    "board": "rp2040:rp2040:rpipico",
+    "sketch": "umeko_dec28_ts_template.ino",
+    "port": "COM1",
+    "output": "build"
+}
